@@ -7,14 +7,14 @@ from msg import msg_body, company_name, subject
 # create this password from your google account
 #  [https://support.google.com/mail/answer/185833?hl=en-GB]
 
-sender = "jitesbharti@gmail.com"
+sender = "jiteshece@gmail.com"
 user_pass = "euyprqjsgslvhlcx"
 sent_from = "Jitesh Kumar"
 
 
-sent_to = ["jiteshece@gmail.com", "test@gmail.com"]
+sent_to = ["jitesh@gmail.com", "test@gmail.com"]
 sent_to_cc = ["kejir51247@tohup.com", "example@gmail.com"]
-sent_to_bcc = ["vinishbhaskar321@gmail.com", "testmail@gmail.com"]
+sent_to_bcc = ["vinishbhaskar@gmail.com", "testmail@gmail.com"]
 
 
 # Keep Your Resume & message.txt file in root directory
