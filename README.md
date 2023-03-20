@@ -1,4 +1,14 @@
-# Email-Sender-Bot
+
+##Email Sender Bot | Python, smtplib | 
+• Built an application for sending emails, including attachments, to up to 50 recipients at a time.
+
+• Incorporated a feature for sending mail with Carbon copy(Cc) and Blind carbon copy(Bcc) to multiple
+recipients.
+
+• Enhanced email delivery rate by 20% through the implementation of error handling and retry logic.
+
+• Tested the application by sending over 100 emails, resulting in a 100% delivery rate.
+
 First off all, clone this repo using the command
 ```
 $ git clone https://github.com/hiijitesh/Email-Sender-Bot.git
