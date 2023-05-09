@@ -8,7 +8,7 @@ recipients.
 • Enhanced email delivery rate by 20% through the implementation of error handling and retry logic.
 
 • Tested the application by sending over 100 emails, resulting in a 100% delivery rate.
-## HOW TO USE IT
+## HOW TO USE
 First off all, clone this repo using the command
 ```
 $ git clone https://github.com/hiijitesh/Email-Sender-Bot.git
